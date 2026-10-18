@@ -52,7 +52,7 @@ Terminalde gösterilen yerel bağlantıyı tarayıcında aç.
 
 Ekran Görüntüsü
 
-Uygulamanın ekran görüntüsü bu bölüme eklenecektir.
+![CodeTrack uygulaması](codetrack.png)
 
 
 Projenin Amacı
