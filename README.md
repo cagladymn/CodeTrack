@@ -1,16 +1,42 @@
-# React + Vite
+CodeTrack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CodeTrack, öğrenmek istediğin yazılım konularını düzenlemene ve öğrenme sürecini takip etmene yardımcı olan basit bir web uygulamasıdır.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Özellikler
 
-## React Compiler
+Yeni öğrenme konusu ekleme
+Konu Ekleme: Öğrenmek istediğin yeni konuları listene ekleyebilirsin.
+Konuları Listeleme: Eklediğin tüm konuları tek bir yerde görüntüleyebilirsin.
+Durum Güncelleme: Konuların durumunu güncelleyerek ilerlemeni takip edebilirsin.
+Konu Silme: Artık takip etmek istemediğin konuları silebilirsin.
+Verileri Saklama: Konuların tarayıcının LocalStorage özelliği sayesinde sayfa yenilense bile saklanır.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Kullanılan Teknolojiler
+React
+JavaScript
+Vite
+Bootstrap 5
+CSS
 
-## Expanding the ESLint configuration
+Kurulum ve Çalıştırma
+Gereksinimler
+>Bilgisayarında Node.js kurulu olmalıdır.<
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Kurulum Adımları
+Projeyi bilgisayarına indir:
+-git clone https://github.com/cagladymn/CodeTrack.git-
+Proje klasörüne gir:
+-cd CodeTrack-
+Gerekli paketleri yükle:
+-npm install-
+Uygulamayı başlat:
+-npm run dev-
+Terminalde gösterilen yerel bağlantıyı tarayıcında aç.
+
+Ekran Görüntüsü
+
+Projenin Amacı
+Bu proje, JavaScript ve React kullanarak temel web geliştirme işlemlerini uygulamak amacıyla hazırlanmıştır. Kullanıcıların öğrenmek istedikleri konuları eklemelerine, listelemelerine, güncellemelerine ve silmelerine olanak tanır.
+
+
