@@ -35,8 +35,12 @@ Uygulamayı başlat:
 Terminalde gösterilen yerel bağlantıyı tarayıcında aç.
 
 Ekran Görüntüsü
+Uygulamanın ekran görüntüsü bu bölüme eklenecektir.
+
 
 Projenin Amacı
 Bu proje, JavaScript ve React kullanarak temel web geliştirme işlemlerini uygulamak amacıyla hazırlanmıştır. Kullanıcıların öğrenmek istedikleri konuları eklemelerine, listelemelerine, güncellemelerine ve silmelerine olanak tanır.
 
+Geliştirici
+Çağla Adıyaman
 
