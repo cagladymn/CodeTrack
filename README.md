@@ -21,7 +21,7 @@ CSS
 
 Kurulum ve Çalıştırma
 Gereksinimler
->Bilgisayarında Node.js kurulu olmalıdır.<
+Bilgisayarında Node.js kurulu olmalıdır.
 
 Kurulum Adımları
 Projeyi bilgisayarına indir:
